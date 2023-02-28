@@ -2,9 +2,9 @@
 
 A Python program I wrote that takes a list of websites and retrieves and analyzes its web certificate. 
 
-The file tranco-top-1m.csv contains the top million most popular websites and orders them by rank. 
+The file tranco-top-1m.csv contains the top million most popular websites and orders them by rank. The file Certificate_Parser.py takes in this file and attempts to revieve the certificates to the top 1000 cites. 
 
-Certificate_Parser.py takes in this file and attempts to revieve the certificates to the top 1000 cites. Certificate_Parser.py then analyzes these certificates to answer the following problems: 
+Certificate_Parser.py then analyzes these certificates to answer the following problems: 
 
 1) What are most common certificate authorities?
 2) What is the range of valid certificate times?
@@ -23,6 +23,8 @@ To run this code:
   
 Note: There are comments in the code highlighting which sections answer which problems. Please comment out all other problems besides your problem of interest. If the comments don't specify what to set as x in the for loop (int(row[0]) <= x), please set x as 1000 (x represents how many websites are analyzed starting from the top of the list). Remember to also comment out the corresponding print sections found at the bottom of the code. 
 
-Below is the code run on its current state without any changes to the comments. It outputs the most common organization names for the top 50 websites. 
+Below is the code run on its current state without any changes to the comments. 
+
+It outputs the most common organization names for the top 50 websites. 
 
 <img width="444" alt="Screen Shot 2023-02-28 at 1 36 55 PM" src="https://user-images.githubusercontent.com/125074849/221960331-728acf8e-d9bb-46fc-868b-70ef91429767.png">
