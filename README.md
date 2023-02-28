@@ -25,4 +25,4 @@ Note: There are comments in the code highlighting which sections answer which pr
 
 Below is the code run on its current state without any changes to the comments. It outputs the answer to question 10. 
 
-<img width="455" alt="Screen Shot 2023-02-28 at 1 33 54 PM" src="https://user-images.githubusercontent.com/125074849/221959704-973a0130-291e-4613-b93a-7fb003ad2607.png">
+<img width="444" alt="Screen Shot 2023-02-28 at 1 36 55 PM" src="https://user-images.githubusercontent.com/125074849/221960331-728acf8e-d9bb-46fc-868b-70ef91429767.png">
