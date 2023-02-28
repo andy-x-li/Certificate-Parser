@@ -1,6 +1,6 @@
 # Certificate-Parser
 
-A program I wrote in Python for a Computer Security course. 
+A Python program I wrote that takes a list of websites and retrieves and analyzes its web certificate. 
 
 The file tranco-top-1m.csv contains the top million most popular websites and orders them by rank. 
 
