@@ -1,6 +1,6 @@
 # Certificate-Parser
 
-A Python program I wrote that takes a list of websites and retrieves and analyzes its web certificate. 
+A Python program I wrote that takes a list of websites and retrieves and analyzes their web certificates. 
 
 The file tranco-top-1m.csv contains the top million most popular websites and orders them by rank. The file Certificate_Parser.py takes in this file and attempts to revieve the certificates to the top 1000 cites. 
 
