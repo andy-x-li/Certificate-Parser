@@ -6,9 +6,9 @@ The file **tranco-top-1m.csv** contains the top million most popular websites an
 
 The file **Certificate_Parser.py** takes in the csv file and attempts to revieve the web certificates to the top 1000 cites. 
 
-**Certificate_Parser.py** then analyzes these certificates to find:
-  **1)** The most common certificate authorities
-  **2)** The range of valid certificate times
+**Certificate_Parser.py** then analyzes these certificates to find: <br>
+  **1)** The most common certificate authorities <br>
+  **2)** The range of valid certificate times <br>
   **3)** The most common issuer country
   **4)** Any patterns in CA state/province names
   **5)** The types and most common public keys
