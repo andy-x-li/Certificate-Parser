@@ -26,6 +26,4 @@ To run this code: <br>
 
 Below is the code run on its current state:
 
-<img width="444" alt="Screen Shot 2023-02-28 at 1 36 55 PM" src="https://user-images.githubusercontent.com/125074849/221960331-728acf8e-d9bb-46fc-868b-70ef91429767.png">
-
-*The most common organization names for the top 50 websites.*
+<img width="444" alt="Screen Shot 2023-02-28 at 1 36 55 PM" src="https://user-images.githubusercontent.com/125074849/221960331-728acf8e-d9bb-46fc-868b-70ef91429767.png"> *The most common organization names for the top 50 websites.*
