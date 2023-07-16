@@ -19,7 +19,7 @@ The file **Certificate_Parser.py** takes in the csv file and attempts to revieve
   **10)** The most common organization name for the top 1000 sites and the top 50 sites
 
 To run this code: <br>
-  **1)** Create a folder that contains **Certificate_Parser.py** and **tranco-top-1m.csv** <br>
+> **1)** Create a folder that contains **Certificate_Parser.py** and **tranco-top-1m.csv** <br>
   **2)** Run via cmd line ("python3 Certificate_Parser.py")
   
 **Note**: *There are comments in the code highlighting which sections answer which problems. Please comment out all other problems besides your problem of interest. If the comments don't specify what to set as x in the for loop (int(row[0]) <= x), please set x as 1000 (x represents how many websites are analyzed starting from the top of the list). Remember to also comment out the corresponding print sections found at the bottom of the code.*
