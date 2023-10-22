@@ -26,4 +26,4 @@ To run this code: <br>
 
 Below is the code run on its current state:
 
-<img width="631" alt="Screen Shot 2023-09-10 at 5 06 05 PM" src="https://github.com/andy-x-li/Certificate-Parser/assets/125074849/b7da97fb-a874-4885-8574-74f718fb3a19"> <br> *The most common organization names for the top 50 websites.*
+<img width="500" alt="Screen Shot 2023-09-10 at 5 06 05 PM" src="https://github.com/andy-x-li/Certificate-Parser/assets/125074849/b7da97fb-a874-4885-8574-74f718fb3a19"> <br> *The most common organization names for the top 50 websites.*
